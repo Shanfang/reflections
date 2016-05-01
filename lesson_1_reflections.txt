@@ -1,0 +1,13 @@
+1.How can you use the commands git log and git diff to view the history of files?
+
+    use git log to list hlistory of all the commits and find the specific commit through
+    its message. Then use git diff commit1_id commit2_id to list all the changes.
+
+2. How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+3. Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
